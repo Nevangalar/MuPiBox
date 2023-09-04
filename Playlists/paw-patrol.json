@@ -1,0 +1,112 @@
+[
+    {
+        "index": 0,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 1,
+        "aPartOfAllMax": 4,
+        "artist": "PAW Patrol - 01-04",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    },
+    {
+        "index": 1,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 5,
+        "aPartOfAllMax": 8,
+        "artist": "PAW Patrol - 05-08",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    },
+    {
+        "index": 2,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 9,
+        "aPartOfAllMax": 12,
+        "artist": "PAW Patrol - 09-12",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    },
+    {
+        "index": 3,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 13,
+        "aPartOfAllMax": 16,
+        "artist": "PAW Patrol - 13-16",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    },
+    {
+        "index": 4,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 17,
+        "aPartOfAllMax": 19,
+        "artist": "PAW Patrol - 17-19",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    },
+    {
+        "index": 5,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 20,
+        "aPartOfAllMax": 22,
+        "artist": "PAW Patrol - 20-22",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    },
+    {
+        "index": 6,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 23,
+        "aPartOfAllMax": 26,
+        "artist": "PAW Patrol - 23-26",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    },
+    {
+        "index": 7,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 27,
+        "aPartOfAllMax": 30,
+        "artist": "PAW Patrol - 27-30",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    },
+    {
+        "index": 8,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 31,
+        "aPartOfAllMax": 33,
+        "artist": "PAW Patrol - 31-33",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    },
+    {
+        "index": 9,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 34,
+        "aPartOfAllMax": 37,
+        "artist": "PAW Patrol - 34-37",
+        "query": "artist:'PAW Patrol' AND album:'Folge'"
+    }
+]
