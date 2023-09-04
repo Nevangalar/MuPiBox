@@ -1,0 +1,36 @@
+[
+    {
+        "index": 101,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "artist": "Eule-Hoerspiel",
+        "playlistid": "40gqPGs41XFBraHI2nhCGl"
+    },
+    {
+        "index": 102,
+        "type": "spotify",
+        "category": "music",
+        "shuffle": false,
+        "artist": "Eule-Musik",
+        "playlistid": "5D7oWQ7WRUJyuIyvAxoA8U"
+    },
+    {
+        "index": 103,
+        "type": "spotify",
+        "category": "music",
+        "shuffle": false,
+        "aPartOfAll": false,
+        "artist": "Eule",
+        "artistid": "59bf2D81aHzl0ot28xzQbk"
+    },
+    {
+        "index": 104,
+        "type": "spotify",
+        "category": "music",
+        "shuffle": false,
+        "aPartOfAll": false,
+        "artist": "DIKKA",
+        "artistid": "79BUGg8I39oq0mSeIetvob"
+    }
+]
