@@ -1,0 +1,13 @@
+[
+    {
+        "index": 20,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 1,
+        "aPartOfAllMax": 100,
+        "artist": "Was-ist-Was-Junior",
+        "artistid": "4MpuODBeOH8gBHqVZtXa7U"
+    }
+]
