@@ -1,0 +1,13 @@
+[
+    {
+        "index": 21,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 1,
+        "aPartOfAllMax": 100,
+        "artist": "Der kleine Rabe Socke",
+        "artistid": "6NdYPh29DHFBbiYzcK7Nb0"
+    }
+]
