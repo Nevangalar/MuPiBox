@@ -1,0 +1,57 @@
+[
+    {
+        "index": 113,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 1,
+        "aPartOfAllMax": 50,
+        "artist": "Die drei ??? 01-50",
+        "artistid": "3meJIgRw7YleJrmbpbJK6S"
+    },
+    {
+        "index": 114,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 51,
+        "aPartOfAllMax": 100,
+        "artist": "Die drei ??? 51-100",
+        "artistid": "3meJIgRw7YleJrmbpbJK6S"
+    },
+    {
+        "index": 115,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 101,
+        "aPartOfAllMax": 150,
+        "artist": "Die drei ??? 101-150",
+        "artistid": "3meJIgRw7YleJrmbpbJK6S"
+    },
+    {
+        "index": 116,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 151,
+        "aPartOfAllMax": 200,
+        "artist": "Die drei ??? 151-200",
+        "artistid": "3meJIgRw7YleJrmbpbJK6S"
+    },
+    {
+        "index": 117,
+        "type": "spotify",
+        "category": "audiobook",
+        "shuffle": false,
+        "aPartOfAll": true,
+        "aPartOfAllMin": 201,
+        "aPartOfAllMax": 300,
+        "artist": "Die drei ??? 201-",
+        "artistid": "3meJIgRw7YleJrmbpbJK6S"
+    }
+]
